@@ -1,0 +1,8 @@
+name: env_1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - scikit-learn
+prefix: C:\Users\lesle\miniconda3\envs\env_1
